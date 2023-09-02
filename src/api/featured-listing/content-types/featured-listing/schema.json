@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "featured_listings",
+  "info": {
+    "singularName": "featured-listing",
+    "pluralName": "featured-listings",
+    "displayName": "FeaturedListings",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "listing1": {
+      "type": "string"
+    },
+    "listing2": {
+      "type": "string"
+    },
+    "listing3": {
+      "type": "string"
+    }
+  }
+}

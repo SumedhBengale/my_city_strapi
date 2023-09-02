@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "home_owners_pages",
+  "info": {
+    "singularName": "home-owners-page",
+    "pluralName": "home-owners-pages",
+    "displayName": "HomeOwnersPage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    }
+  }
+}

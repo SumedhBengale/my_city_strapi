@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "luxe_home_pages",
+  "info": {
+    "singularName": "luxe-home-page",
+    "pluralName": "luxe-home-pages",
+    "displayName": "LuxeHomePage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "text": {
+      "type": "text"
+    }
+  }
+}
