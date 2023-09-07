@@ -4,7 +4,8 @@
   "info": {
     "singularName": "luxe-featured-listing",
     "pluralName": "luxe-featured-listings",
-    "displayName": "LuxeFeaturedListing"
+    "displayName": "LuxeFeaturedListing",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -18,6 +19,18 @@
       "type": "string"
     },
     "listing3": {
+      "type": "string"
+    },
+    "listing4": {
+      "type": "string"
+    },
+    "listing5": {
+      "type": "string"
+    },
+    "listing6": {
+      "type": "string"
+    },
+    "listing7": {
       "type": "string"
     }
   }

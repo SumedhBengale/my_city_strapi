@@ -20,6 +20,18 @@
     },
     "listing3": {
       "type": "string"
+    },
+    "listing4": {
+      "type": "string"
+    },
+    "listing5": {
+      "type": "string"
+    },
+    "listing6": {
+      "type": "string"
+    },
+    "listing7": {
+      "type": "string"
     }
   }
 }
